@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1055211733361-vr1q3dt8h4tkft1s7oghvpn5cg1fv934.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1055211733361-vr1q3dt8h4tkft1s7oghvpn5cg1fv934</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIWSo8up2MxbkxsMvgUJeQocItZurzGmk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1055211733361</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cz.jankubes.coloringbook.coloringBookForKids.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>coloring-book-for-kids-5eb1d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coloring-book-for-kids-5eb1d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1055211733361:ios:2adca61b9e377adc7df6d0</string>
+</dict>
+</plist>
